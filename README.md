@@ -1,3 +1,3 @@
-# machine-learning-zoomcamp-homework
+# machine-learning-projects
 
 hello world
